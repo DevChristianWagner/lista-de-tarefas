@@ -25,7 +25,7 @@
 
 <h2> 🪂 Sobre o projeto 🪂 </h2>
 
-Esse projeto foi construido com o intuito de evoluir e testar meus conhecimentos no Javascript. Veja esse projeto você mesmo [clicando aqui](devchristianwagner-lista-de-tarefas).
+Esse projeto foi construido com o intuito de evoluir e testar meus conhecimentos no Javascript. Veja esse projeto você mesmo [clicando aqui](https://devchristianwagner-lista-de-tarefas.netlify.app/).
 
 
 
