@@ -59,9 +59,9 @@ Para iniciar a aplicação é necessario ter em sua maquina  o  <img src="https:
 $ git clone https://github.com/DevChristianWagner/lista-de-tarefas/
 
 # Acesse a pasta do projeto
-$ cd landingpage-otaviomiranda/
+$ cd lista-de-tarefas/
 
-# Abra o index.html ou acesse online em devchristianwagner-lista-de-tarefas.bnetlify.app
+# Abra o index.html ou acesse online em devchristianwagner-lista-de-tarefas.netlify.app
 
 ```
 
